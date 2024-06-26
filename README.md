@@ -10,11 +10,11 @@
 ...
 
 ### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Mahdirahimiam GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdirahimiam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdirahimiam&layout=compact&theme=radical)
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdirahimiam&layout=compact&theme=radical)
 <!--
 **Mahdirahimiam/Mahdirahimiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

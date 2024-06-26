@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Mahdirahimiam)
 
 <!--
 **Mahdirahimiam/Mahdirahimiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

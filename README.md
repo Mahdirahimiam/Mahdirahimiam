@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💫 About Me:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Mahdirahimiam)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/mahdirahimiam)
 
@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ...
 
-### GitHub Stats:
+### 📊 GitHub Stats::
 ![Mahdirahimiam GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdirahimiam&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdirahimiam&layout=compact&theme=radical)
 
